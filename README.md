@@ -18,7 +18,7 @@ This repository contains video demonstrations of our proprietary AI-powered cont
 
 
 ## Contact
-For more information or to request a live demonstration, please contact us at [your-email@example.com].
+For more information or to request a live demonstration, please contact us at technology@conscientia.ai .
 
 ## License
 This project contains proprietary software and all rights are reserved by Conscientia.AI. Redistribution or use in source and binary forms, with or without modification, is not permitted without express prior written permission. For permissions or inquiries, please contact technology@conscientia.ai .
