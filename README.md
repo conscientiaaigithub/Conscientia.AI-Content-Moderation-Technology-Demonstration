@@ -27,7 +27,7 @@ This project contains proprietary software and all rights are reserved by Consci
 ## Video Demos
 
 ### Detection of significant body exposure
-Our technology identifies and flags content realt-time that involves overexposure and nudity, ensuring compliance with TikTok's community guidelines.
+Our technology identifies and flags content in realt-time that involves overexposure and nudity, ensuring compliance with TikTok's community guidelines.
 
 
 #### Example: Real-Time significant exposure Detection in User-Generated Content
