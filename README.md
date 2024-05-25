@@ -27,11 +27,10 @@ This project contains proprietary software and all rights are reserved by Consci
 ## Video Demos
 
 ### Detection of significant body exposure
-Our technology identifies and flags content that involves overexposure and nudity, ensuring compliance with TikTok's community guidelines.
+Our technology identifies and flags content realt-time that involves overexposure and nudity, ensuring compliance with TikTok's community guidelines.
 
 
 #### Example: Real-Time significant exposure Detection in User-Generated Content
 
-<video src="https://github.com/conscientiaaigithub/conscientia-ai-test-repo/assets/142061871/0a2156f7-1238-48e8-adf7-7f20f5e91126" />
+<video src="https://github.com/conscientiaaigithub/Conscientia.AI-Content-Moderation-Technology-Demonstration/assets/142061871/f79827dc-9db3-4209-be5c-26c22800d21f" />
 
-This is a test test test
