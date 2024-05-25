@@ -1,4 +1,4 @@
-![conscientia-linkedIn-blue](https://github.com/conscientiaaigithub/conscientia-ai-test-repo/assets/142061871/05a6cb57-e79e-4e87-8ba7-ea252736d55c)
+![conscientia-linkedIn-blue](https://github.com/conscientiaaigithub/Conscientia.AI-Content-Moderation-Technology-Demonstration/assets/142061871/4ca4947f-4bc2-4314-92c9-7868fdae3844)
 
 
 # AI-Powered Content Moderation Technology Demo
